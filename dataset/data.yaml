@@ -1,0 +1,7 @@
+train: E:/Detection/classification/For_detection_dataset/dataset/train/images
+val: E:/Detection/classification/For_detection_dataset/dataset/val/images
+test: E:/Detection/classification/For_detection_dataset/dataset/test/images
+
+nc: 6
+
+names: ['Airplane', 'Car', 'Person', 'Horse', 'Motorcycle', 'Zebra']
