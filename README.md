@@ -2,7 +2,7 @@
 
 ```chatinput
     Upload the dataset directory into the drive
-    and paste the link the yaml file.
+    and paste the link into the data.yaml file.
 ```
 
 ### Installation
